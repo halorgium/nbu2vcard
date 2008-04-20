@@ -1,0 +1,5 @@
+It is really easy to use. 
+
+./convert.rb /path/to/your/file.nbu
+
+It will output the vcards into a directory inside "output". 
